@@ -1,2 +1,2 @@
-# Hangman_repo
+# Hangman_C
 Simple hangman game using C
