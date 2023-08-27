@@ -4,7 +4,7 @@
 
 ***Starting Screen***
   *  The game starts with a security question for the player (A simple math problem).
-  *  The game then asks for user information and following that the game starts.
+  *  The game then asks for player information and following that the game starts.
 
 ***Gameplay***
   *  The opening screen of the game displays the blank letters of a specific word, the player lives and the number of tries and correct guesses.
